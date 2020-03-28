@@ -2,7 +2,7 @@
 int main()
 {
    //compilation error here
-   puts("Hello, world!")
+   puts("Hello, world!");
 
    //to fix it, add semi-colon after print function:
    //puts("Hello, world!");
